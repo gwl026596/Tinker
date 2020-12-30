@@ -9,7 +9,6 @@
    
    
    res {
-
             pattern = ["res/*", "assets/*", "resources.arcs", "AndoridManifest.xml"]
             //指定tinker可以修改的资源路径
 
