@@ -1,0 +1,3 @@
+include ':tinkerlibrary'
+include ':app'
+rootProject.name = "Tinker"
