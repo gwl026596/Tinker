@@ -8,7 +8,8 @@
 1.错误写法
    
    
-   res {
+  res {
+
             pattern = ["res/*", "assets/*", "resources.arcs", "AndoridManifest.xml"]
             //指定tinker可以修改的资源路径
 
@@ -16,6 +17,7 @@
 
             largeModSize = 100 //资源修改大小默认值
         }
+
         
  2.正确写法
  
