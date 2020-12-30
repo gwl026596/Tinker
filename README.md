@@ -6,7 +6,9 @@
 主要原因是配置gradle项错误 "resources.arcs", "AndoridManifest.xml"
 
 1.错误写法
-    res {
+   
+   
+   res {
 
             pattern = ["res/*", "assets/*", "resources.arcs", "AndoridManifest.xml"]
             //指定tinker可以修改的资源路径
